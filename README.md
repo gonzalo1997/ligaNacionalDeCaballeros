@@ -1,4 +1,4 @@
-# ligaNacionalDeCaballeros
+# Generador de equipos de La Liga Nacional de Caballeros
 
 Este es un proyecto en el que se tiene planificado insertar 14 jugadores y, a partir de diversos factores, se genere un equipo de forma aleatoria.
 
