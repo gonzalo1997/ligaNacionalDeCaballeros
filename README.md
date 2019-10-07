@@ -1,5 +1,7 @@
 # Generador de equipos de La Liga Nacional de Caballeros
 
+OBJETIVO PRINCIPAL: GENERAR UN BALANCE
+
 Este es un proyecto en el que se tiene planificado insertar 14 jugadores y, a partir de diversos factores, se genere un equipo de forma aleatoria.
 
 Dichos factores:
