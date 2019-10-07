@@ -1,0 +1,7 @@
+import laLNC.*
+
+
+test "Se elige un arquero de forma aleatoria" {
+	laLNC.seleccionarArquero()
+	assert.that(equals,shuko)
+}
